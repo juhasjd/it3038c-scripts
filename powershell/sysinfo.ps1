@@ -1,5 +1,5 @@
 ﻿function getIP {
-(get-netipaddress).ipv4address |Select-String "192*"
+(get-netipaddress).ipv4address | Select-String "192*"
 }
 $IP = getIP
 $USER = whoami
