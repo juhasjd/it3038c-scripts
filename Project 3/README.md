@@ -18,3 +18,11 @@ python pwgen.py
 ## Documentaion
 
 I initially wanted to create this project because it ties into what I'm going to do for my senior capstone project next fall. My capstone project is going to be about a applicaiton that tests the password stregth for users in a company. This ties into that because this would be a way to make a new password if a users password tests as weak. I also think that this is useful because, lets be honest, we all use the same 3-5 passwords for everything. That being said, this could help you change that.
+
+## Credits 
+
+Inspiration for this project was brought to you by Author: Simran Kaur Arora Date: March 23, 2023
+
+## License
+
+[MIT](https://chosealicense.com/licenses/mit/)
